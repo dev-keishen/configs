@@ -13,6 +13,7 @@
   "xd_livestream_domain": "https://api-xd-sun.gameland.vip/api/v1/",
   "xd_livestream_video_url": "https://staticmt.net/livestream7/xocdialive_withautoplay.html",
   "xd_livestream_video_url_nosound": "https://staticmt.net/livestream7/xocdialive_nosound.html",
+  "xd_livestream_video_url_nosound22222": "https://staticmt.net/livestream7/xocdialive_nosound.html",
   "xd_livestream_ws_url": "wss://ws-xocdia-ls.swinnn.io/websocket",
   "appName": "sunprod",
   "brand": "sun.win",
