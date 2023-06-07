@@ -11,6 +11,7 @@
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
   "xd_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.xeuipp.io/websocket",
+  "tx_livestream_ws_url" : "wss://ws-taixiu-ls.xeuipp.io/websocket",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
