@@ -1,8 +1,8 @@
 {
-  "host_domain": "https://cfg.mangdd.io/",
-  "api_domain": "https://api.mangdd.io/",
+  "host_domain": "https://cfg.mangee.io/",
+  "api_domain": "https://api.mangee.io/",
   "rs_domain": "https://play.manclub.pro/",
-  "sport_domain": "https://sport.mangdd.io/",
+  "sport_domain": "https://sport.mangee.io/",
   "appName": "manclub",
   "brand": "man.club",
   "bundles": {
