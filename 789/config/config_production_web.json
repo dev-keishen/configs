@@ -86,6 +86,10 @@
     "xd_live": {
       "totalTextFileCount": 392,
       "totalTextImageCount": 66
+    },
+    "tx_live": {
+      "totalTextFileCount": 374,
+      "totalTextImageCount": 25
     }
   },
   "bundles": {
