@@ -2,6 +2,7 @@
   "host_domain": "https://cfg.atpman.com/",
   "api_domain": "https://api2.atpman.com/",
   "iFrame_domain": "https://game.789m.club/",
+  "lp_domain": "https://789m.club/",
   "rs_domain": "https://game.789m.club/",
   "sport_domain": "https://sport.atpman.com/",
   "ws_sport_domain": "wss://wssport.atpman.com/websocket",
