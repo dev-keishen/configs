@@ -7,6 +7,7 @@
   "sport_domain": "https://sport.mangee.io/",
   "appName": "manclub",
   "brand": "man.club",
+  "ios_app_link": "https://cobonla.vip/ios-info-4.html",
   "bundles": {
     "lobby": {
       "totalTextFileCount": 1346,
