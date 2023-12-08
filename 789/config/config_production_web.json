@@ -1,9 +1,9 @@
 {
   "host_domain": "https://cfg.atpman.com/",
   "api_domain": "https://api2.atpman.com/",
-  "iFrame_domain": "https://game.789i.club/",
-  "lp_domain": "https://789i.club/",
-  "rs_domain": "https://game.789i.club/",
+  "iFrame_domain": "https://game.789j.club/",
+  "lp_domain": "https://789j.club/",
+  "rs_domain": "https://game.789j.club/",
   "sport_domain": "https://sport.atpman.com/",
   "ws_sport_domain": "wss://wssport.atpman.com/websocket",
   "bc_livestream_domain": "https://api-bc-789.gameland.vip/api/v1/",
