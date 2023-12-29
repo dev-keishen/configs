@@ -1,14 +1,14 @@
 {
   "host_domain": "https://cfg.mangee.io/",
   "api_domain": "https://api.mangee.io/",
-  "rs_domain": "https://play-v330.man3.club/",
-  "lp_domain": "https://man3.club/",
+  "rs_domain": "https://play-v330.man.vip/",
+  "lp_domain": "https://man.vip/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
   "appName": "manclub",
   "brand": "man.club",
   "ios_app_link": "https://cobonla.vip/ios-info-4.html",
-  "android_app_link": "https://man3.club",
+  "android_app_link": "https://man.vip",
   "bundles": {
     "lobby": {
       "totalTextFileCount": 1346,
