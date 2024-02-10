@@ -1,7 +1,7 @@
 {
   "host_domain": "https://cfg.mangee.io/",
   "api_domain": "https://api.mangee.io/",
-  "rs_domain": "https://rsweb.manstatic.com/prerelease/",
+  "rs_domain": "https://play.man.vip/prerelease/",
   "lp_domain": "https://man.vip/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
