@@ -14,6 +14,7 @@
   "xd_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
   "tx_livestream_ws_url" : "wss://ws-taixiu-ls.atpman.net/websocket",
+  "tx_livestream_video_url" : "taixiulive_789_withautoplay_3k.html",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
