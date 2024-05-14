@@ -2,7 +2,7 @@
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
   "iFrame_domain": "https://game.789club.vip/",
-  "lp_domain": "https://789.club/",
+  "lp_domain": "https://789.win/",
   "rs_domain": "https://rsweb.789static.com/prerelease/",
   "rs_static_domain": "https://rsweb.789static.com/",
   "sport_domain": "https://sport.atpman.net/",
@@ -15,7 +15,7 @@
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
   "tx_livestream_ws_url" : "wss://ws-taixiu-ls.atpman.net/websocket",
   "appName": "789club",
-  "brand": "789.win",
+  "brand": "789.club",
   "files_config": {
     "prefab_baucua": {
       "totalTextFileCount": 250,
