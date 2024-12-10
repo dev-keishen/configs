@@ -4,7 +4,7 @@
   "rs_domain": "https://rsweb.manstatic.com/prerelease/",
   "lp_domain": "https://man.fun/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
-  "sport_domain": "https://sport.mangcc.io/",
+  "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://top-sport.atpman.net/sport/top",
   "chat_sport_domain": "https://api.atpman.net/id/id",
