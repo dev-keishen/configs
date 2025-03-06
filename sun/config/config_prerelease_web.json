@@ -18,7 +18,7 @@
   "xd_livestream_ws_url": "wss://ws-xocdia-ls.azhkthg1.com/websocket",
   "tx88_livestream_auth_video_url":"/livestream_page/txlive88_withautoplay_01.html",
   "tx88_livestream_ws_url":"wss://livecasino.azhkthg1.com/websocket",
-  "dragon_ball_ws_url": "http://xgame.azhkthg1.net/sunrong",
+  "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
   "appName": "sunprod",
   "brand": "sun.win"
 }
