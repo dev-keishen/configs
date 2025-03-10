@@ -2,7 +2,7 @@
   "host_domain": "https://cfg.mangee.io/",
   "api_domain": "https://api.mangee.io/",
   "rs_domain": "https://rsweb.manstatic.com/",
-  "lp_domain": "https://man.vip/",
+  "lp_domain": "https://man.club/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
