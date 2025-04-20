@@ -1,7 +1,7 @@
 {
-    "DOMAIN" : "https://api.azhkthg1.com",
+    "DOMAIN" : "https://api.azhkthg1.net",
     "gemwin_lp_url": "gem.win",
-    "RESOURCE_MINI_GAME_URL" : "https://api.azhkthg1.com/images/uploads/creator/",
+    "RESOURCE_MINI_GAME_URL" : "https://api.azhkthg1.net/images/uploads/creator/",
     "RESOURCE_MINI_GAME_URL_APP" : "https://rs.staticmt.net/",
     "RESOURCE_MINI_GAME_URL_WEB" : "https://staticmt.net/minigame/",
     "RESOURCE_MINI_GAME_URL_APP_PORTRAIT" : "https://rs.staticmt.net/minigame-portrait/",
