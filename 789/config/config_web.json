@@ -10,14 +10,14 @@
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://top-sport.atpman.net/sport/top",
   "bc_livestream_domain": "https://api-bc-789.gameland.vip/api/v1/",
-  "bc_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "bc_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "bc_livestream_ws_url_new": "wss://ws-baucua-ls.atpman.net/websocket",
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
-  "xd_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "xd_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
-  "xd_livestream_video_url" : "/livestream_page/xocdialive_789_withautoplay_01w.html",
-  "tx_livestream_ws_url" : "wss://ws-taixiu-ls.atpman.net/websocket",
-  "tx_livestream_video_url": "/livestream_page/taixiulive_789_withautoplay_01w.html",
+  "xd_livestream_video_url": "/internal/livestream_page/xocdialive_789_withautoplay_01w.html",
+  "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
+  "tx_livestream_video_url": "/internal/livestream_page/taixiulive_789_withautoplay_01w.html",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
@@ -28,7 +28,7 @@
     "prefab_xocdia": {
       "totalTextFileCount": 201,
       "totalTextImageCount": 18
-    }, 
+    },
     "prefab_xocdia_squidgame": {
       "totalTextFileCount": 274,
       "totalTextImageCount": 27
@@ -60,7 +60,7 @@
     "xito": {
       "totalTextFileCount": 682,
       "totalTextImageCount": 211
-    }, 
+    },
     "g9937L": {
       "totalTextFileCount": 734,
       "totalTextImageCount": 95
