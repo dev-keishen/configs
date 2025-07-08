@@ -5,7 +5,7 @@
   "lp_domain_origin": "https://789.club/",
   "lp_domain": "https://789.club/",
   "rs_domain": "https://rsweb.789static.com/resources/",
-  "rs_static_domain": "https://rsweb.789static.com/resources/",
+  "rs_static_domain": "https://rsweb.789static.com/resources/static",
   "sport_domain": "https://sport.atpman.net/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://top-sport.atpman.net/sport/top",
