@@ -1,9 +1,9 @@
 {
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
-  "iFrame_domain": "https://play.789.club/",
-  "lp_domain_origin": "https://789.club/",
-  "lp_domain": "https://789.club/",
+  "iFrame_domain": "https://play.789club.sx/",
+  "lp_domain_origin": "https://789club.sx/",
+  "lp_domain": "https://7789club.sx/",
   "rs_domain": "https://rsweb.789static.com/resources/",
   "rs_static_domain": "https://rsweb.789static.com/resources/static/",
   "sport_domain": "https://sport.atpman.net/",
