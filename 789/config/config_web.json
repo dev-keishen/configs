@@ -18,6 +18,8 @@
   "xd_livestream_video_url": "/internal/livestream_page/xocdialive_789_withautoplay_01w.html",
   "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
   "tx_livestream_video_url": "/internal/livestream_page/taixiulive_789_withautoplay_01w.html",
+  "authorizationEndpoint": "https://login.789.club/auth/authorize",
+  "tokenEndpoint": "https://login.789.club/auth/token",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
