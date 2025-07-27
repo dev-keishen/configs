@@ -19,6 +19,9 @@
   "tx88_livestream_auth_video_url":"/livestream_page/txlive88_withautoplay_04.html",
   "tx88_livestream_ws_url":"wss://livecasino.azhkthg1.com/websocket",
   "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
+  "authorizationEndpoint": "https://login.sun.win/auth/authorize",
+  "tokenEndpoint": "https://login.sun.win/auth/token",
+  "phising_domain": "https://dictate.uk.com/",
   "appName": "sunprod",
   "brand": "sun.win"
 }
