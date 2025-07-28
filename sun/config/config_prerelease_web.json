@@ -20,7 +20,17 @@
   "tx88_livestream_ws_url":"wss://livecasino.azhkthg1.com/websocket",
   "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
   "authorizationEndpoint": "https://login.sun.win/auth/authorize",
+  "authorizationEndpoints": {
+    "sun.win": "https://login.sun.win/auth/authorize",
+    "nhat.vip": "https://login.nhatvip.vip/auth/authorize",
+    "zo.win": "https://login.zowin.tv/auth/authorize"
+  },
   "tokenEndpoint": "https://login.sun.win/auth/token",
+  "tokenEndpoints": {
+    "sun.win": "https://login.sun.win/auth/token",
+    "nhat.vip": "https://login.nhatvip.vip/auth/token",
+    "zo.win": "https://login.zowin.tv/auth/token"
+  },
   "phising_domain": "https://dictate.uk.com/",
   "appName": "sunprod",
   "brand": "sun.win"
