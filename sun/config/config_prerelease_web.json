@@ -16,20 +16,25 @@
   "xd_livestream_video_url": "https://web.sun.win/livestream_page/xocdialive_withautoplay_017.html",
   "xd_livestream_video_url_nosound": "https://web.sun.win/livestream_page/xocdialive_nosound_017.html",
   "xd_livestream_ws_url": "wss://ws-xocdia-ls.azhkthg1.com/websocket",
-  "tx88_livestream_auth_video_url":"/livestream_page/txlive88_withautoplay_04.html",
-  "tx88_livestream_ws_url":"wss://livecasino.azhkthg1.com/websocket",
+  "tx88_livestream_auth_video_url": "/livestream_page/txlive88_withautoplay_04.html",
+  "tx88_livestream_ws_url": "wss://livecasino.azhkthg1.com/websocket",
   "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
-  "authorizationEndpoint": "https://login.sun.win/auth/authorize",
-  "authorizationEndpoints": {
-    "sun.win": "https://login.sun.win/auth/authorize",
-    "nhat.vip": "https://login.nhatvip.vip/auth/authorize",
-    "zo.win": "https://login.zowin.tv/auth/authorize"
-  },
-  "tokenEndpoint": "https://login.sun.win/auth/token",
-  "tokenEndpoints": {
-    "sun.win": "https://login.sun.win/auth/token",
-    "nhat.vip": "https://login.nhatvip.vip/auth/token",
-    "zo.win": "https://login.zowin.tv/auth/token"
+  "loginConfig": {
+    "sun.win": {
+      "tokenEndpoint": "https://login.sun.win/auth/token",
+      "authorizationEndpoint": "https://login.sun.win/auth/authorize",
+      "clientId": "sun.win"
+    },
+    "nhat.vip": {
+      "tokenEndpoint": "https://login.nhatvip.vip/auth/token",
+      "authorizationEndpoint": "https://login.nhatvip.vip/auth/authorize",
+      "clientId": "nhat.vip"
+    },
+    "zo.win": {
+      "tokenEndpoint": "https://login.zowin.tv/auth/token",
+      "authorizationEndpoint": "https://login.zowin.tv/auth/authorize",
+      "clientId": "zo.win"
+    }
   },
   "phising_domain": "https://dictate.uk.com/",
   "appName": "sunprod",
