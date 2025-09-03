@@ -3,6 +3,10 @@
   "api_domain": "https://api2.atpman.net/",
   "iFrame_domain": "https://play.789club.sx/",
   "lp_domain_origin": "https://789.club/",
+  "lp_domain_phishing": [
+    "https://i-789i.club/",
+    "https://plays-789.com/"
+  ],
   "lp_domain": "https://789club.sx/",
   "rs_domain": "https://rsweb.789static.com/resources/",
   "rs_static_domain": "https://rsweb.789static.com/resources/static/",
