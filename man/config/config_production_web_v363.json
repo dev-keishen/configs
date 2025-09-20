@@ -6,7 +6,7 @@
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
-  "top_sport_domain": "https://top-sport.atpman.net/sport/top",
+  "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
   "chat_sport_domain": "https://api.atpman.net/id/id",
   "authorizationEndpoint": "https://login.man.club/auth/authorize",
   "tokenEndpoint": "https://login.man.club/auth/token",
