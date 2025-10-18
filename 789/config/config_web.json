@@ -6,6 +6,7 @@
   "lp_domain": "https://789.club/",
   "rs_domain": "https://rsweb.789static.com/resources/",
   "rs_static_domain": "https://rsweb.789static.com/resources/static/",
+  "jackpots_url": "https://api100.atpman.net/gameapi/public/jackpot/all",
   "sport_domain": "https://sport.atpman.net/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://api100.atpman.net/gameapi/public/sb/ranking",
