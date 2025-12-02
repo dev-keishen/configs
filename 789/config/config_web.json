@@ -16,9 +16,9 @@
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
   "xd_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
-  "xd_livestream_video_url": "/internal/livestream_page/xocdialive_789_withautoplay_02w.html",
+  "xd_livestream_video_url": "/internal/livestream_page/xocdialive_789_withautoplay_03w.html",
   "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
-  "tx_livestream_video_url": "/internal/livestream_page/taixiulive_789_withautoplay_02w.html",
+  "tx_livestream_video_url": "/internal/livestream_page/taixiulive_789_withautoplay_03w.html",
   "loginConfig": {
     "authorizationEndpoint": "https://login.789.club/auth/authorize",
     "tokenEndpoint": "https://login.789.club/auth/token",
