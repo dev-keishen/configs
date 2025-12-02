@@ -21,6 +21,8 @@
   "tx88_livestream_auth_video_url": "/internal/livestream_page/txlive88_withautoplay_04.html",
   "tx88_livestream_ws_url": "wss://livecasino.azhkthg1.com/websocket",
   "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
+  "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v003p.html",
+  "phising_livestream_video_url": "phising_livestream_withautoplay_213_v024u.html",
   "loginConfig": {
     "sun.win": {
       "tokenEndpoint": "https://login.sunwin.vin/auth/token",
