@@ -8,11 +8,11 @@
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
   "chat_sport_domain": "https://api.atpman.net/id/id",
-  "authorizationEndpoint": "https://login.man.club/auth/authorize",
-  "tokenEndpoint": "https://login.man.club/auth/token",
+  "authorizationEndpoint": "https://login.man.vip/auth/authorize",
+  "tokenEndpoint": "https://login.man.vip/auth/token",
   "loginConfig": {
-    "authorizationEndpoint": "https://login.man.club/auth/authorize",
-    "tokenEndpoint": "https://login.man.club/auth/token",
+    "authorizationEndpoint": "https://login.man.vip/auth/authorize",
+    "tokenEndpoint": "https://login.man.vip/auth/token",
     "clientId": "man.club"
   },
   "appName": "manclub",
