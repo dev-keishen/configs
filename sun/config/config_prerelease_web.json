@@ -40,6 +40,7 @@
       "clientId": "zo.win"
     }
   },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "phising_domain": "https://dictate.uk.com/",
   "appName": "sunprod",
   "brand": "sun.win"
