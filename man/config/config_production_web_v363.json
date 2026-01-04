@@ -16,5 +16,9 @@
     "clientId": "man.club"
   },
   "appName": "manclub",
-  "brand": "man.club"
+  "brand": "man.club",
+  "c5_rongholive_livestream_video_url_endpoint_web": "/internal/livestream_page/c5_rongholive_withautoplay_01M.html",
+  "c5_rongholive_ws_url": "wss://dragon-api.streamingtp.com/ws",
+  "c5_rongholive_chat_ws_url": "wss://appchat.chatbox.live/chatapp/websocket/chatroom",
+  "c5_rongholive_stream_token_api_url": "https://api-csn-s.gameland.today/api/v1/stream/"
 }
