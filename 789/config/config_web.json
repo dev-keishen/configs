@@ -29,6 +29,7 @@
     "tokenEndpoint": "https://login.789.club/auth/token",
     "clientId": "789.club"
   },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
