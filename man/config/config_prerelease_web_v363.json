@@ -10,8 +10,8 @@
   "chat_sport_domain": "https://api.atpman.net/id/id",
   "appName": "manclub",
   "loginConfig": {
-    "authorizationEndpoint": "https://login.man.club/auth/authorize",
-    "tokenEndpoint": "https://login.man.club/auth/token",
+    "authorizationEndpoint": "https://login-internal.man.club/auth/authorize",
+    "tokenEndpoint": "https://login-internal.man.club/auth/token",
     "clientId": "man.club"
   },
   "brand": "man.club"
