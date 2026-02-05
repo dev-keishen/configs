@@ -1,0 +1,22 @@
+{
+  "host_domain": "https://cfg.mangee.io/",
+  "api_domain": "https://api.mangee.io/",
+  "rs_domain": "https://refactor.dlesjeckz.net/",
+  "lp_domain": "https://manclub.spa/",
+  "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
+  "sport_domain": "https://sport.mangee.io/",
+  "ws_sport_domain": "wss://wssport.atpman.net/websocket",
+  "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
+  "chat_sport_domain": "https://api.atpman.net/id/id",
+  "loginConfig": {
+    "authorizationEndpoint": "https://login.manclub.spa/auth/authorize",
+    "tokenEndpoint": "https://login.manclub.spa/auth/token",
+    "clientId": "man.club"
+  },
+  "appName": "manclub",
+  "brand": "man.club",
+  "c5_rongholive_livestream_video_url_endpoint_web": "/internal/livestream_page/c5_rongholive_withautoplay_01M.html",
+  "c5_rongholive_ws_url": "wss://dragon-api.streamingtp.com/ws",
+  "c5_rongholive_chat_ws_url": "wss://appchat.chatbox.live/chatapp/websocket/chatroom",
+  "c5_rongholive_stream_token_api_url": "https://api-csn-s.gameland.today/api/v1/stream/"
+}
