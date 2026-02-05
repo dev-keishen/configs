@@ -9,8 +9,8 @@
   "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
   "chat_sport_domain": "https://api.atpman.net/id/id",
   "loginConfig": {
-    "authorizationEndpoint": "https://login.manclub.spa/auth/authorize",
-    "tokenEndpoint": "https://login.manclub.spa/auth/token",
+    "authorizationEndpoint": "https://login-internal.man.club/auth/authorize",
+    "tokenEndpoint": "https://login-internal.man.club/auth/token",
     "clientId": "man.club"
   },
   "appName": "manclub",
