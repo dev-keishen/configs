@@ -47,18 +47,18 @@
   },
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sunwin.vin/auth/token",
-      "authorizationEndpoint": "https://login.sunwin.vin/auth/authorize",
+      "tokenEndpoint": "https://login-internal.sunwin.vin/auth/token",
+      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
-      "tokenEndpoint": "https://login.nhatvip.vip/auth/token",
-      "authorizationEndpoint": "https://login.nhatvip.vip/auth/authorize",
+      "tokenEndpoint": "https://login-internal.nhatvip.vip/auth/token",
+      "authorizationEndpoint": "https://login-internal.nhatvip.vip/auth/authorize",
       "clientId": "nhat.vip"
     },
     "zo.win": {
-      "tokenEndpoint": "https://login.zowin.tv/auth/token",
-      "authorizationEndpoint": "https://login.zowin.tv/auth/authorize",
+      "tokenEndpoint": "https://login-internal.zowin.tv/auth/token",
+      "authorizationEndpoint": "https://login-internal.zowin.tv/auth/authorize",
       "clientId": "zo.win"
     }
   },
