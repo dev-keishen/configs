@@ -14,5 +14,6 @@
     "tokenEndpoint": "https://login-internal.man.club/auth/token",
     "clientId": "man.club"
   },
-  "brand": "man.club"
+  "brand": "man.club",
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html"
 }
