@@ -134,7 +134,7 @@
       "prefabName": "data/prefabs/ico_tx88-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "isLandscape": false,
       "typeGame": 1
     },
