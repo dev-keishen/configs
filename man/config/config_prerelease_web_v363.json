@@ -9,11 +9,6 @@
   "top_sport_domain": "https://top-sport.atpman.net/sport/top",
   "chat_sport_domain": "https://api.atpman.net/id/id",
   "appName": "manclub",
-  "loginConfig": {
-    "authorizationEndpoint": "https://login-internal.man.club/auth/authorize",
-    "tokenEndpoint": "https://login-internal.man.club/auth/token",
-    "clientId": "man.club"
-  },
   "brand": "man.club",
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html"
 }
