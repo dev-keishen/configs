@@ -3,6 +3,7 @@
   "api_domain": "https://api.mangee.io/",
   "rs_domain": "https://rs.dlesjeckz.net/",
   "lp_domain": "https://manclub.pw/",
+  "web_domain": "https://web.manclub.pw/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
