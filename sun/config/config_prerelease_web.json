@@ -2,28 +2,17 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://dictate.uk.com/",
-  "iFrame_domain": "https://web.sun.fun/",
   "gemwin_lp_url": "gem88.win",
   "lp_domain": "https://sun.win/",
   "lp_domain_zo": "https://zowin.tv/",
   "lp_domain_nhat": "https://nhatvip.vip/",
   "rs_domain": "https://staticmt.net/prerelease/",
   "sport_domain": "https://sport.azhkthg1.com/",
-  "ws_sport_domain": "wss://wssport.azhkthg1.com/websocket",
-  "xd_live_version": "1.0.2",
-  "tx_livestream_domain": "https://api-csn-sun.gameland.today/api/v1/",
-  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_023a.html",
-  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_018a.html",
-  "tx_livestream_ws_url": "wss://ws-taixiu-ls.azhkthg1.com/websocket",
-  "xd_livestream_domain": "https://api-xd-sun.gameland.vip/api/v1/",
-  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017b.html",
-  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017b.html",
-  "xd_livestream_ws_url": "wss://ws-xocdia-ls.azhkthg1.com/websocket",
-  "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_test05.html",
-  "tx88_livestream_ws_url": "wss://livecasino.azhkthg1.com/websocket",
-  "dragon_ball_ws_url": "wss://xgame.azhkthg1.net/sunrong",
-  "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v003p.html",
-  "phising_livestream_video_url": "phising_livestream_withautoplay_213_v024u.html",
+  "web_domains": {
+    "sun.win": "https://web.sunwin.ag/",
+    "nhat.vip": "https://play.nhat.onl/",
+    "zo.win": "https://web.zowin.la/"
+  },
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
@@ -48,22 +37,8 @@
       "idol_livestream_video_url": "internal/livestream_page/idol_livestream_jstream_01w.html"
     }
   },
-  "loginConfig": {
-    "sun.win": {
-      "tokenEndpoint": "https://login-internal.sunwin.vin/auth/token",
-      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
-      "clientId": "sun.win"
-    },
-    "nhat.vip": {
-      "tokenEndpoint": "https://login-internal.nhatvip.vip/auth/token",
-      "authorizationEndpoint": "https://login-internal.nhatvip.vip/auth/authorize",
-      "clientId": "nhat.vip"
-    },
-    "zo.win": {
-      "tokenEndpoint": "https://login-internal.zowin.tv/auth/token",
-      "authorizationEndpoint": "https://login-internal.zowin.tv/auth/authorize",
-      "clientId": "zo.win"
-    }
+  "c5_config": {
+    "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
@@ -106,6 +81,14 @@
       "isEnable": true
     },
     {
+      "gameID": 15,
+      "prefabName": "data/prefabs/ico_rongho",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
       "gameID": 501,
       "prefabName": "data/prefabs/ico_superdragonball",
       "position": 0,
@@ -137,14 +120,6 @@
       "type": 1,
       "isEnable": true,
       "typeGame": 2
-    },
-    {
-      "gameID": 15,
-      "prefabName": "data/prefabs/ico_rongho",
-      "position": 0,
-      "type": 1,
-      "isEnable": false,
-      "isLandscape": false
     },
     {
       "gameID": 14,
