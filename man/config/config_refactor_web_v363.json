@@ -8,7 +8,7 @@
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
-  "chat_sport_domain": "https://api.atpman.net/id/id",
+  "chat_sport_domain": "https://api.atpman.net/id",
   "appName": "manclub",
   "brand": "man.club",
   "c5_rongholive_livestream_video_url_endpoint_web": "/internal/livestream_page/c5_rongholive_withautoplay_01M.html",
