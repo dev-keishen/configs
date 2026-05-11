@@ -168,7 +168,7 @@
       "prefabName": "data/prefabs/ico_sbdaga",
       "position": 1,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -232,7 +232,7 @@
       "prefabName": "data/prefabs/ico_c5-baclongbao",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -240,6 +240,14 @@
       "prefabName": "data/prefabs/ico_c5-taixiujackpot",
       "position": 1,
       "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 435,
+      "prefabName": "data/prefabs/ico_c5-roullet",
+      "position": 1,
+      "type": 1,
       "isEnable": true,
       "typeGame": 1
     },
