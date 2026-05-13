@@ -1,24 +1,31 @@
 {
-  "khong con dung": "khong con dung file nay nua",
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
-  "iFrame_domain": "https://play.789club.sx/",
-  "lp_domain_origin": "https://789club.sx/",
-  "lp_domain": "https://789club.sx/",
-  "rs_domain": "https://rsweb.789static.com/",
-  "rs_static_domain": "https://rsweb.789static.com/",
+  "tracking_url": "https://api.atpman.net/et/v1/event-tracking",
+  "iFrame_domain": "https://play.789club.my/",
+  "lp_domain_origin": "https://789.club/",
+  "lp_domain": "https://789club.my/",
+  "web_domain": "https://play.789club.my/",
+  "rs_domain": "https://drawlegdem.vip/resources/",
+  "rs_static_domain": "https://drawlegdem.vip/resources/static/",
+  "jackpots_url": "https://api100.atpman.net/gameapi/public/jackpot/all",
   "sport_domain": "https://sport.atpman.net/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
-  "top_sport_domain": "https://top-sport.atpman.net/sport/top",
+  "top_sport_domain": "https://api100.atpman.net/gameapi/public/sb/ranking",
   "bc_livestream_domain": "https://api-bc-789.gameland.vip/api/v1/",
-  "bc_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "bc_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "bc_livestream_ws_url_new": "wss://ws-baucua-ls.atpman.net/websocket",
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
-  "xd_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "xd_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
-  "xd_livestream_video_url" : "/789/xocdialive_789_withautoplay_18w.html",
-  "tx_livestream_ws_url" : "wss://ws-taixiu-ls.atpman.net/websocket",
-  "tx_livestream_video_url": "/789/taixiulive_789_withautoplay_17w.html",
+  "xd_livestream_video_url": "/internal/livestream_page/xocdialive_789_withautoplay_03w.html",
+  "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
+  "tx_livestream_video_url": "/internal/livestream_page/taixiulive_789_withautoplay_03w.html",
+  "livestreamConfig": {
+    "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
+    "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_06w.html"
+  },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
   "files_config": {
@@ -29,7 +36,7 @@
     "prefab_xocdia": {
       "totalTextFileCount": 201,
       "totalTextImageCount": 18
-    }, 
+    },
     "prefab_xocdia_squidgame": {
       "totalTextFileCount": 274,
       "totalTextImageCount": 27
@@ -61,7 +68,7 @@
     "xito": {
       "totalTextFileCount": 682,
       "totalTextImageCount": 211
-    }, 
+    },
     "g9937L": {
       "totalTextFileCount": 734,
       "totalTextImageCount": 95
