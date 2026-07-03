@@ -599,6 +599,15 @@
       "type": 2,
       "isEnable": true,
       "isLandscape": false
+    },
+    {
+      "gameID": 504,
+      "prefabName": "data/prefabs/ico_bacc-8-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
     }
   ],
   "isShowIdolStream": false
