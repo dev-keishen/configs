@@ -43,7 +43,7 @@
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
   "brand": "sun.win",
-  "availableGames": [
+  "aG": [
     {
       "gameID": 400,
       "prefabName": "data/prefabs/ico_banca",
